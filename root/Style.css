@@ -19,7 +19,7 @@
     text-align: center;
 }
 .text1{
-    font-size: 130%;
+    font-size: 100%;
     color: hsl(74, 100%, 77%);
 
 
@@ -125,7 +125,8 @@ border-bottom-style:solid;
 
 }
 .text{
-    width: 60%;
+    width: auto;
+    height: auto;
     text-align: center;
     align-items: center;
 
