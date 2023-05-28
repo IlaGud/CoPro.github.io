@@ -7,10 +7,11 @@
     color: rgb(255, 255, 255);
     size: flex;
     box-sizing: border-box;
+    background-image: url(/root/Fon3.jpg);
 }
 
 .glav {
-    font-size: calc(14px + (18 - 14) * ( (1200vw - 480px) / ( 1024 - 480) ));
+    font-size: calc(14px + (18 - 14) * ( (2000vw - 480px) / ( 1024 - 480) ));
     color: #5fdd59;
 }
 
