@@ -22,7 +22,7 @@
 }
 
 .text1 {
-    font-size: calc(0.1rem + 1.8vw);
+    font-size: calc(14px + (18 - 14) * ( (150vw - 480px) / ( 1024 - 480) ));
     color: hsl(74, 100%, 77%);
 }
 
@@ -37,13 +37,13 @@ img {
 
 .edin {
     font-family: Luminari;
-    font-size: calc(2rem + 2vw);
+    font-size: calc(14px + (18 - 14) * ( (500vw - 480px) / ( 1024 - 480) ));
     color: rgb(251, 255, 0);
 }
 
 .edin1 {
     font-family: cursive;
-    font-size: 120%;
+    font-size: calc(14px + (18 - 14) * ( (90vw - 480px) / ( 1024 - 480) ));
     color: rgb(169, 171, 17);
     margin: 1% 0 5% 0;
 }
@@ -55,7 +55,7 @@ img {
 .ho1 {
     font-family: Luminari;
     color: rgb(234, 255, 2);
-    font-size: 200%;
+    font-size: calc(14px + (18 - 14) * ( (400vw - 480px) / ( 1024 - 480) ));
 }
 
 .ho2 {
@@ -88,7 +88,7 @@ img {
 
 .tele {
     font-family: cursive;
-    font-size: calc(0.8rem + 1vw);
+    font-size: calc(14px + (18 - 14) * ( (100vw - 480px) / ( 1024 - 480) ));
     margin: -10% 0 0 45%;
     color: #94b092;
     padding: 0 0 5% 0;
@@ -107,7 +107,7 @@ img {
 }
 
 .dialogopis {
-    font-size: calc(0.05rem + 1.4vw);
+    font-size: calc(14px + (18 - 14) * ( (100vw - 480px) / ( 1024 - 480) ));
     font-family: cursive;
     margin: 0% 20% 0 20%;
     color: #e6ff47;
@@ -142,5 +142,5 @@ img {
 }
 .razrab{
     color: #00ff37;
-    font-size: calc(0rem + 1.2vw);
+    font-size: calc(14px + (18 - 14) * ( (50vw - 480px) / ( 1024 - 480) ));
 }
