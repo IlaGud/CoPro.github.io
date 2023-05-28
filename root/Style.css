@@ -10,7 +10,7 @@
 }
 
 .glav {
-    font-size: calc(12rem + 2vw);
+    font-size: calc(14px + (18 - 14) * ( (1200vw - 480px) / ( 1024 - 480) ));
     color: #5fdd59;
 }
 
